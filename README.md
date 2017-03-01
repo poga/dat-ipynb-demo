@@ -2,7 +2,7 @@
 
 use iPython Notebook to analyze data in a dat archive.
 
-![demo](demo.png)
+![](demo2.png)
 
 ### Usage
 
